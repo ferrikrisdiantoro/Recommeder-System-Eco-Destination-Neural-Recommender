@@ -1,0 +1,183 @@
+row_idx,item_id,place_name,category,city
+0,0,Taman Nasional Gunung Leuser,"Budaya,Taman Nasional",Aceh
+1,1,Desa Wisata Munduk,Desa Wisata,Bali
+2,2,Desa Wisata Penglipuran,"Budaya,Desa Wisata",Bali
+3,3,Taman Nasional Bali Barat,"Taman Nasional,Cagar Alam",Bali
+4,4,Bukit Jamur,Cagar Alam,Bandung
+5,5,Bukit Moko,Cagar Alam,Bandung
+6,6,Curug Bugbrug,Cagar Alam,Bandung
+7,7,Curug Cilengkrang,Cagar Alam,Bandung
+8,8,Curug Cimahi,Cagar Alam,Bandung
+9,9,Curug Cipanas,Cagar Alam,Bandung
+10,10,Curug Luhur Waterfall,Cagar Alam,Bandung
+11,11,Curug Malela,Cagar Alam,Bandung
+12,12,Curug Tilu Leuwi Opat,Cagar Alam,Bandung
+13,13,Desa Wisata Kampung Cai Ranca Upas,"Cagar Alam,Desa Wisata",Bandung
+14,14,Dusun Bambu,Taman Hiburan,Bandung
+15,15,Gua Pawon,"Budaya,Cagar Alam",Bandung
+16,16,Gunung Lalakon,"Cagar Alam,Taman Nasional",Bandung
+17,17,Gunung Manglayang,"Cagar Alam,Taman Nasional",Bandung
+18,18,Happyfarm Ciwidey,Cagar Alam,Bandung
+19,19,Jendela Alam ,Taman Hiburan,Bandung
+20,20,Kawah Putih,"Cagar Alam,Taman Nasional",Bandung
+21,21,Kawah Rengganis Cibuni,"Cagar Alam,Taman Nasional",Bandung
+22,22,Kebun Binatang Bandung,Cagar Alam,Bandung
+23,23,Kebun Tanaman Obat Sari Alam,Cagar Alam,Bandung
+24,24,Orchid Forest Cikole,"Cagar Alam,Taman Hiburan",Bandung
+25,25,Perkebunan Teh Malabar,Cagar Alam,Bandung
+26,26,Sanghyang Heuleut,"Budaya,Cagar Alam",Bandung
+27,27,Saung Angklung Mang Udjo,Budaya,Bandung
+28,28,Selasar Sunaryo Art Space,"Budaya,Taman Hiburan",Bandung
+29,29,Sendang Geulis Kahuripan,"Budaya,Cagar Alam",Bandung
+30,30,Situ Cileunca,Cagar Alam,Bandung
+31,31,Stone Garden Citatah,"Budaya,Cagar Alam",Bandung
+32,32,Sungai Palayangan,Cagar Alam,Bandung
+33,33,Taman Begonia,"Cagar Alam,Taman Hiburan",Bandung
+34,34,Taman Bunga Cihideung,Cagar Alam,Bandung
+35,35,Taman Hutan Raya Ir. H. Djuanda,"Budaya,Taman Hiburan",Bandung
+36,36,Taman Kupu-Kupu Cihanjuang,"Budaya,Cagar Alam",Bandung
+37,37,Taman Wisata Alam Cikole,"Budaya,Cagar Alam",Bandung
+38,38,Taman Wisata Alam Ranca Upas,"Budaya,Cagar Alam",Bandung
+39,39,Tebing Karaton,"Budaya,Cagar Alam",Bandung
+40,40,Taman Nasional Ujung Kulon,"Budaya,Cagar Alam,Taman Nasional",Banten
+41,41,Desa Wisata Mangunan,Desa Wisata,Bantul
+42,42,Kawah Ijen,"Cagar Alam,Taman Nasional",Banyuwangi
+43,43,Desa Wisata Cinangneng,"Budaya,Desa Wisata",Bogor
+44,44,Kebun Raya Bogor,Cagar Alam,Bogor
+45,45,Taman Wisata Alam Cibodas,Cagar Alam,Bogor
+46,46,Taman Wisata Alam Ciloto,"Budaya,Cagar Alam",Bogor
+47,47,Taman Wisata Alam Gunung Geulis,"Budaya,Cagar Alam",Bogor
+48,48,Taman Wisata Alam Gunung Pancar,Cagar Alam,Bogor
+49,49,Taman Wisata Alam Riung Gunung,"Budaya,Cagar Alam",Bogor
+50,50,Taman Wisata Alam Kampoeng Air Kragilan,"Budaya,Cagar Alam",Boyolali
+51,51,Taman Hutan Raya Ngurah Rai,"Cagar Alam,Taman Nasional",Denpasar
+52,52,Taman Nasional Kelimutu,"Cagar Alam,Taman Nasional",Ende
+53,53,Gunung Papandayan,"Cagar Alam,Taman Nasional",Garut
+54,54,Desa Wisata Nglanggeran,Desa Wisata,Gunungkidul
+55,55,Bumi Perkemahan Cibubur,Taman Hiburan,Jakarta
+56,56,Margasatwa Muara Angke,"Budaya,Cagar Alam",Jakarta
+57,57,Pantai Ancol,"Bahari,Taman Hiburan",Jakarta
+58,58,Pulau Bidadari,"Bahari,Cagar Alam",Jakarta
+59,59,Pulau Pari,"Bahari,Cagar Alam",Jakarta
+60,60,Pulau Pelangi,"Bahari,Cagar Alam",Jakarta
+61,61,Pulau Pramuka,"Bahari,Cagar Alam",Jakarta
+62,62,Pulau Semak Daun,"Bahari,Cagar Alam",Jakarta
+63,63,Pulau Tidung,"Bahari,Cagar Alam",Jakarta
+64,64,Setu Babakan,Budaya,Jakarta
+65,65,Taman Agrowisata Cilangkap,Taman Hiburan,Jakarta
+66,66,Wisata Alam Mangrove Angke,Cagar Alam,Jakarta
+67,67,Taman Nasional Berbak,"Cagar Alam,Taman Nasional",Jambi
+68,68,Taman Nasional Bukit Duabelas,"Cagar Alam,Taman Nasional",Jambi
+69,69,Taman Nasional Bukit Tigapuluh,"Cagar Alam,Taman Nasional",Jambi
+70,70,Taman Nasional Meru Betiri,"Budaya,Cagar Alam,Taman Nasional",Jember
+71,71,Taman Nasional Karimunjawa,"Bahari,Taman Hiburan,Taman Nasional",Jepara
+72,72,Taman Nasional Betung Kerihun,"Cagar Alam,Taman Nasional",Kapuas Hulu
+73,73,Taman Nasional Tanjung Puting,"Bahari,Cagar Alam,Taman Hiburan,Taman Nasional",Kotawaringin
+74,74,Taman Wisata Alam Kubu Raya,"Budaya,Cagar Alam",Kubu Raya
+75,75,Desa Wisata Nglinggo,Desa Wisata,Kulon Progo
+76,76,Hutan Mangrove Kulon Progo,Cagar Alam,Kulon Progo
+77,77,Taman Hutan Raya Bukit Soeharto,"Cagar Alam,Taman Nasional",Kalimantan Timur
+78,78,Taman Nasional Bukit Barisan Selatan,"Taman Nasional,Cagar Alam",Lampung
+79,79,Taman Nasional Way Kambas,"Taman Nasional,Cagar Alam",Lampung
+80,80,Desa Wisata Lembah Harau,Desa Wisata,Sumatera Barat
+81,81,Taman Nasional Gunung Rinjani,"Taman Nasional,Cagar Alam",Lombok
+82,82,Desa Wisata Sade,Budaya,Lombok
+83,83,Taman Nasional Gunung Merbabu,"Budaya,Taman Nasional",Magelang
+84,84,Desa Wisata Jodipan,Budaya,Malang
+85,85,Desa Wisata Ngadas,"Cagar Alam,Desa Wisata",Malang
+86,86,Taman Hutan Raya R. Soerjo,"Cagar Alam,Taman Hiburan",Malang
+87,87,Taman Nasional Bromo Tengger Semeru,"Budaya,Taman Nasional",Malang
+88,88,Taman Wisata Alam Puncak Banyu Biru,"Budaya,Cagar Alam",Malang
+89,89,Pulau Kanawa,"Bahari,Cagar Alam",Manggarai
+90,90,Taman Nasional Komodo,"Bahari,Taman Hiburan,Taman Nasional",Manggarai
+91,91,Pantai Klayar,"Bahari,Cagar Alam",Pacitan
+92,92,Taman Hutan Raya Bung Hatta,"Cagar Alam,Taman Hiburan",Padang
+93,93,Taman Wisata Alam Punti Kayu,"Budaya,Cagar Alam",Palembang
+94,94,Taman Nasional Teluk Cendrawasih,Taman Nasional,Papua Barat
+95,95,Taman Hutan Raya Sultan Syarif Hasyim,"Cagar Alam,Taman Nasional",Pekanbaru
+96,96,Taman Nasional Tesso Nilo,"Cagar Alam,Taman Nasional",Pelalawan
+97,97,Taman Hutan Raya Wan Abdul Rachman,"Cagar Alam,Taman Nasional",Pesawaran
+98,98,Taman Wisata Alam Hutan Albasia,"Budaya,Cagar Alam",Pontianak
+99,99,Taman Buru Gunung Masigit Kareumbi,Cagar Alam,Purwakarta
+100,100,Taman Nasional Kutai,"Cagar Alam,Taman Nasional",Samarinda
+101,101,Air Terjun Kali Pancur,Cagar Alam,Semarang
+102,102,Air Terjun Semirang,Cagar Alam,Semarang
+103,103,Brown Canyon,Cagar Alam,Semarang
+104,104,Candi Gedong Songo,Budaya,Semarang
+105,105,Danau Rawa Pening,Cagar Alam,Semarang
+106,106,Desa Wisata Lembah Kalipancur,"Desa Wisata,Taman Hiburan",Semarang
+107,107,Durian Gardens and Tourism Education Watu Simbar,"Budaya,Cagar Alam",Semarang
+108,108,Goa Rong,"Budaya,Cagar Alam",Semarang
+109,109,Hutan Wisata Tinjomoyo Semarang,Cagar Alam,Semarang
+110,110,Kampoeng Kopi Banaran,"Budaya,Taman Hiburan",Semarang
+111,111,Kampoeng Rawa,Cagar Alam,Semarang
+112,112,Obyek Wisata Goa Kreo,"Budaya,Cagar Alam",Semarang
+113,113,Waduk Jatibarang Mijen,Cagar Alam,Semarang
+114,114,Watu Gunung Ungaran,Cagar Alam,Semarang
+115,115,Wisata Alam Wana Wisata Penggaron,Cagar Alam,Semarang
+116,116,Wisata Lereng Kelir,Cagar Alam,Semarang
+117,117,Wisata Mangrove Tapak,"Budaya,Cagar Alam",Semarang
+118,118,Taman Nasional Baluran,"Cagar Alam,Taman Nasional",Situbondo
+119,119,Desa Wisata Kinahrejo,Desa Wisata,Sleman
+120,120,Taman Nasional Kerinci Seblat,"Taman Nasional,Cagar Alam",Solok Selatan
+121,121,Taman Wisata Tirta Alam,"Budaya,Cagar Alam",Subang
+122,122,Taman Wisata Alam Curug Cipendok,"Budaya,Cagar Alam",Sukabumi
+123,123,Taman Wisata Alam Situgunung,"Budaya,Cagar Alam",Sukabumi
+124,124,Danau Toba,"Budaya,Cagar Alam,Desa Wisata",Sumatra Utara
+125,125,Ekowisata Mangrove Wonorejo,"Cagar Alam,Taman Hiburan",Surabaya
+126,126,Kebun Bibit Wonorejo,Cagar Alam,Surabaya
+127,127,Taman Flora Bratang Surabaya,Taman Hiburan,Surabaya
+128,128,Taman Wisata Alam Telaga Menjer,"Budaya,Cagar Alam",Wonosobo
+129,129,Air Terjun Kedung Pedut,Cagar Alam,Yogyakarta
+130,130,Air Terjun Sri Gethuk,Cagar Alam,Yogyakarta
+131,131,Blue Lagoon Jogja,"Bahari,Taman Hiburan",Yogyakarta
+132,132,Bukit Lintang Sewu,"Cagar Alam,Taman Hiburan",Yogyakarta
+133,133,Bukit Panguk Kediwung,"Budaya,Cagar Alam",Yogyakarta
+134,134,Bukit Wisata Pulepayung,Cagar Alam,Yogyakarta
+135,135,Bunker Kaliadem Merapi,Cagar Alam,Yogyakarta
+136,136,Desa Wisata Kalibiru,"Budaya,Cagar Alam",Yogyakarta
+137,137,Desa Wisata Kelor,"Desa Wisata,Taman Hiburan",Yogyakarta
+138,138,Desa Wisata Pulesari ,"Desa Wisata,Taman Hiburan",Yogyakarta
+139,139,Desa Wisata Sungai Code Jogja Kota,"Budaya,Taman Hiburan",Yogyakarta
+140,140,Goa Cerme,"Budaya,Cagar Alam",Yogyakarta
+141,141,Goa Jomblang,"Budaya,Cagar Alam",Yogyakarta
+142,142,Goa Pindul ,"Budaya,Cagar Alam",Yogyakarta
+143,143,Goa Rancang Kencono,"Budaya,Cagar Alam",Yogyakarta
+144,144,Grojogan Watu Purbo Bangunrejo,"Cagar Alam,Taman Hiburan",Yogyakarta
+145,145,Hutan Pinus Pengger,"Cagar Alam,Taman Hiburan",Yogyakarta
+146,146,Jogja Exotarium,Taman Hiburan,Yogyakarta
+147,147,Jurang Tembelan Kanigoro,"Cagar Alam,Taman Hiburan",Yogyakarta
+148,148,Lava Bantal,"Budaya,Cagar Alam",Yogyakarta
+149,149,Ledok Sambi,Cagar Alam,Yogyakarta
+150,150,Museum Ullen Sentalu,Budaya,Yogyakarta
+151,151,Pantai Baron,"Bahari,Cagar Alam",Yogyakarta
+152,152,Pantai Drini,"Bahari,Cagar Alam",Yogyakarta
+153,153,Pantai Goa Cemara,"Bahari,Cagar Alam",Yogyakarta
+154,154,Pantai Greweng,"Bahari,Cagar Alam",Yogyakarta
+155,155,Pantai Indrayanti ,"Bahari,Cagar Alam",Yogyakarta
+156,156,Pantai Jogan,"Bahari,Cagar Alam",Yogyakarta
+157,157,Pantai Jungwok,"Bahari,Cagar Alam",Yogyakarta
+158,158,Pantai Kesirat,"Bahari,Cagar Alam",Yogyakarta
+159,159,Pantai Krakal,"Bahari,Cagar Alam",Yogyakarta
+160,160,Pantai Nglambor,"Bahari,Cagar Alam",Yogyakarta
+161,161,Pantai Ngrenehan,"Bahari,Cagar Alam",Yogyakarta
+162,162,Pantai Nguluran,"Bahari,Cagar Alam",Yogyakarta
+163,163,Pantai Parangtritis,"Bahari,Cagar Alam",Yogyakarta
+164,164,Pantai Patihan,"Bahari,Cagar Alam",Yogyakarta
+165,165,Pantai Sadranan,"Bahari,Cagar Alam",Yogyakarta
+166,166,Pantai Samas ,"Bahari,Cagar Alam",Yogyakarta
+167,167,Pantai Sedahan,"Bahari,Cagar Alam",Yogyakarta
+168,168,Pantai Siung,"Bahari,Cagar Alam",Yogyakarta
+169,169,Pantai Timang,"Bahari,Cagar Alam",Yogyakarta
+170,170,Pantai Watu Kodok,"Bahari,Cagar Alam",Yogyakarta
+171,171,Pantai Wediombo,"Bahari,Cagar Alam",Yogyakarta
+172,172,Puncak Gunung Api Purba - Nglanggeran,Cagar Alam,Yogyakarta
+173,173,Puncak Kebun Buah Mangunan,"Cagar Alam,Taman Hiburan",Yogyakarta
+174,174,Puncak Pinus Becici,"Cagar Alam,Taman Hiburan",Yogyakarta
+175,175,Seribu Batu Songgo Langit,"Budaya,Cagar Alam",Yogyakarta
+176,176,Sindu Kusuma Edupark (SKE),"Cagar Alam,Taman Hiburan",Yogyakarta
+177,177,Studio Alam Gamplong,Taman Hiburan,Yogyakarta
+178,178,Watu Goyang,"Budaya,Cagar Alam",Yogyakarta
+179,179,Watu Lumbung,Cagar Alam,Yogyakarta
+180,180,Wisata Alam Kalibiru,"Budaya,Cagar Alam",Yogyakarta
+181,181,Wisata Kaliurang,Cagar Alam,Yogyakarta
