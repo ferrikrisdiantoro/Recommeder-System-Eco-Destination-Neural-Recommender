@@ -1,4 +1,4 @@
-# EcoTourism — Neural Recommender (Two‑Tower, TFRS) — **eco_recsys (modular)**
+# EcoTourism — Neural Recommender (Two‑Tower, TFRS) — **eco_recsys**
 
 Rekomender destinasi ekowisata berbasis **two‑tower retrieval** (user tower & item tower) dengan **TensorFlow Recommenders** untuk embedding teks, lalu **reranking** menggunakan **User Feedback Weighting (UFW)** + **MMR** + **Serendipity**.
 
